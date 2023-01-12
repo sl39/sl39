@@ -4,6 +4,8 @@
 
 축구,야구 좋아하고, 운동도 좋아합니다
 
-감사합니다!
+감사합니다
 
-[![sl39's GitHub stats](https://github-readme-stats.vercel.app/api?username=sl39)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
