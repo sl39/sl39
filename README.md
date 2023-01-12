@@ -6,8 +6,6 @@
 
 감사합니다
 
-[![sl39's GitHub stats](https://github-readme-stats.vercel.app/api?username=sl39)](https://github.com/anuraghazra/github-readme-stats)
+[
 
-
-
-[![sl39's GitHub stats](https://github-readme-stats.vercel.app/api?username=sl39)]
+![sl39's GitHub stats](https://github-readme-stats.vercel.app/api?username=sl39)](https://github.com/sl39/github-readme-stats)
